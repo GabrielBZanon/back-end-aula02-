@@ -16,10 +16,10 @@ Exemplo de CRUD simples full-stack com uma tabela de Tarefas.
 - Clonar o repositório
 - Abrir o projeto no VsCode
 - Abrir o terminal cmd ou bash, navegar até a pasta ./api e rodar:
-cd api
-npm install
-npm start
-# ou
+-- cd api
+-- npm install
+-- npm start
+ou
 npx nodemon
 Instalar o Banco de dados no Mysql (Via XAMPP dar start em MySQL).
 Navegar até a pasta ./web e executar o arquivo index.html no navegador ou via live server do VsCode
