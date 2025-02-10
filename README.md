@@ -1,2 +1,2 @@
 # back-end-aula02-
-Projeto full-stack
+Sistema de Gerenciamento de Tarefas
